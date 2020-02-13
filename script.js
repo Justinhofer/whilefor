@@ -45,7 +45,3 @@ dragonhealthEle.innerHTML = "Dragons Remaining Health = " + dragon;
 //}else{
 //userhealthEle.innerHTML = "You have been severly hurt. The dragon has won!";
 //}
-
-while (user > 0) {
-  
-}
